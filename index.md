@@ -87,4 +87,4 @@ Unless otherwise specified in this document, the rules for ensuring the confiden
 
 ### Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at https://mcmikius.github.io/PM-Issue-Log/ and [email: mcmikius15@gmail.com](mcmikius15@gmail.com).
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at [https://mcmikius.github.io/scale-models-privacy-policy/](https://mcmikius.github.io/scale-models-privacy-policy/) and [email: mcmikius15@gmail.com](mcmikius15@gmail.com).
