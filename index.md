@@ -1,4 +1,4 @@
- ## Scale Models Privacy Policy
+## Scale Models Privacy Policy
 
 We built the Scale Models application (the "Application"). This SERVICE is provided by at no cost and is intended for use as is.
 
